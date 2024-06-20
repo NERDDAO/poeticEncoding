@@ -1,4 +1,4 @@
-Certainly! Below, I will extract and convey the semantic details from each haiku to reconstruct the original paper in a scientific format.
+ertainly! Below, I will extract and convey the semantic details from each haiku to reconstruct the original paper in a scientific format.
 
 ---
 
