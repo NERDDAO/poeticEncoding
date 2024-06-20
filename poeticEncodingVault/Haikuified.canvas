@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"8cc4d009902b1f7d","x":400,"y":1590,"width":940,"height":1310,"type":"file","file":"pok_summary.md"},
+		{"id":"639be467d4ded8e7","type":"text","text":"{{[[pok]]}}","x":-500,"y":1457,"width":440,"height":583,"color":"4"},
+		{"id":"e5f28241800843b0","type":"text","text":"Compress the semantic payload of this text into a set of haikus. \nPreserve the document title and subject headers","x":-60,"y":1120,"width":250,"height":143,"color":"6"},
+		{"id":"35896720689b7d0e","type":"text","text":"Attempt to reconstruct the original paper by extracting the semantic payload of the haikus provided. Be scientific\n\n","x":560,"y":1139,"width":250,"height":106,"color":"4"},
+		{"id":"12bd370414d6c37f","type":"text","text":"Proof of Knowledge Protocol Documentation\nProof of Knowledge\n\nDecentralized mind,\nEngrams weaving knowledge webs,\nBlockchain rewards them.\n\n**Introduction**\n\nSharing knowledge blooms,\nSecurity and fair rewards,\nStriking balance here.\n\nOld systems falter,\nCentral control limits growth,\nPoK breaks these chains.\n\n**Introduction to kEngrams**\n\nNodes of knowledge rise,\nBuilding understanding wide,\nEngrams interlinked.\n\n**Components of an Engram**\n\nStudy questions posed,\nData, metadata bind,\nUnique IDs shine.\n\nRelationships strong,\nEngrams connect data’s song,\nForming knowledge’s throng.\n\n**Engram Life-cycle**\n\nCompose, use, evolve,\nEngrams enriched over time,\nEthereum marks.\n\n**Utilizing Ethereum Attestation Service (EAS)**\n\nEAS ensures,\nSecure and clear Engram trails,\nRewards fairly shared.\n\n**Defining an Engram Schema for Proof of Knowledge**\n\nData structured well,\nSchema holds Engram details,\nGas efficiency.\n\n**Addition of Value**\n\nKnowledge amplified,\nLinked and revised by many,\nEngrams grow in worth.\n\n**Validation of Engrams**\n\nAI interacts,\nValidation through use clear,\nQuality prevails.\n\n**Human Operator's Role**\n\nCoherence maintained,\nOperators guide the stream,\nEnsuring sense made.\n\n**Local to Global Coherence**\n\nLocal ties to grand,\nEngrams forming unified,\nKnowledge Graph aligns.\n\n**Knowledge Validation & Value Attribution**\n\nFree market of thought,\nEngrams earn their place by use,\nMerit shines through time.\n\n**Utilization & Evolution**\n\nAI finds the gems,\nUser metrics shape their fate,\nEngrams live and breathe.\n\nSearch guides and adjusts,\nCollaborative minds add,\nKnowledge keeps forming.\n\n**Conclusion**\n\nBlockchain guards the truth,\nAdaptive, rewarding all,\nShared knowledge thrives bright.","x":40,"y":1420,"width":250,"height":420,"color":"6"}
+	],
+	"edges":[
+		{"id":"47d518e23467eb42","fromNode":"e5f28241800843b0","fromSide":"bottom","toNode":"639be467d4ded8e7","toSide":"top"},
+		{"id":"01ba78c6ccd78296","fromNode":"639be467d4ded8e7","fromSide":"right","toNode":"12bd370414d6c37f","toSide":"left"},
+		{"id":"ba7480f36cda9a20","fromNode":"12bd370414d6c37f","fromSide":"top","toNode":"35896720689b7d0e","toSide":"left"},
+		{"id":"2639b1c3d61fe976","fromNode":"35896720689b7d0e","fromSide":"bottom","toNode":"8cc4d009902b1f7d","toSide":"top"}
+	]
+}
